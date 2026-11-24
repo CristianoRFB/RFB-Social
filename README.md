@@ -1,3 +1,9 @@
+<div align="center">
+<img src="public/brand/logo.svg" alt="Logo conceitual RFBSocial" width="450"/>
+
+**Uma comunidade que é realmente sua**
+</div>
+
 # RFBSocial — uma comunidade que é realmente sua
 
 > **Estado atual: blueprint e identidade conceitual.** Este repositório ainda não contém um aplicativo implementado. Não há deploy nem testes funcionais.
@@ -21,4 +27,10 @@ O Starter Pack inicial e especificação estão no repositório privado do RFB M
 
 ---
 
-**RFB Labs — projeto próprio.** A logo do produto é uma identidade distinta do escudo institucional RFB, que assina o projeto. Assets SVG serão vinculados quando a árvore do repositório estiver inicializada.
+**RFB Labs — projeto próprio.** A logo do produto é uma identidade distinta do escudo institucional RFB, que assina o projeto. A logo do produto está versionada em `public/brand/logo.svg` e a assinatura RFB em `public/brand/assinatura-rfb.svg`.
+
+<div align="center">
+<img src="public/brand/assinatura-rfb.svg" alt="Assinatura institucional RFB" width="70"/>
+
+<sub>Uma criação RFB — marca institucional secundária.</sub>
+</div>

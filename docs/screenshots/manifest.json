@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "project": "RFBSocial",
+  "status": "NOT_CAPTURED",
+  "screenshots": [
+    {
+      "id": "S1",
+      "caption": "Feed e navegação",
+      "path": null,
+      "status": "NOT_CAPTURED",
+      "kind": "REAL_CAPTURE",
+      "commit_sha": null,
+      "viewport": null,
+      "environment": null,
+      "captured_at": null,
+      "privacy_checked": false
+    },
+    {
+      "id": "S2",
+      "caption": "Perfil e privacidade",
+      "path": null,
+      "status": "NOT_CAPTURED",
+      "kind": "REAL_CAPTURE",
+      "commit_sha": null,
+      "viewport": null,
+      "environment": null,
+      "captured_at": null,
+      "privacy_checked": false
+    },
+    {
+      "id": "S3",
+      "caption": "Post e comentários",
+      "path": null,
+      "status": "NOT_CAPTURED",
+      "kind": "REAL_CAPTURE",
+      "commit_sha": null,
+      "viewport": null,
+      "environment": null,
+      "captured_at": null,
+      "privacy_checked": false
+    },
+    {
+      "id": "S4",
+      "caption": "Moderação",
+      "path": null,
+      "status": "NOT_CAPTURED",
+      "kind": "REAL_CAPTURE",
+      "commit_sha": null,
+      "viewport": null,
+      "environment": null,
+      "captured_at": null,
+      "privacy_checked": false
+    }
+  ]
+}
